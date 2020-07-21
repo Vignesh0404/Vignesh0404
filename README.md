@@ -16,7 +16,7 @@
 
 ### About Me  
 
-I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration. In fact, I'm currently the Chair of [SVCE-ACM Student Chapter](https://svce.acm.org/). My secret sauce is getting people excited about the things I'm excited about. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
+
 
 
 ### Programming Languages :scroll:
@@ -77,5 +77,6 @@ I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	
     <a id="Website" href="https://vignesh0404.github.io/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="Krishnakanth Alagiri - Website" /></a>
     &nbsp;&nbsp;
    <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
+  <a id="Mail" href="https://www.instagram.com/"><img width="27px" src="https://imgur.com/kMm885s.png"></a>
 </p>
-<img src="https://imgur.com/rilHVxA.png"/>
+<img src="https://imgur.com/rilHVxA.png"/>  https://imgur.com/kMm885s
