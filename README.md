@@ -12,7 +12,7 @@
 </summary>
 
 
-### About Me  
+## About Me  
    Hey! I'm vignesh currently a junior in Sri Venkateshwara College Of Engineering pursuing Computer Science. I'm a 
 	highly motivated, optimistic and enthusiastic person who loves to code. Trying to survive in this fast-phasing
 	python driven world using javaScript.  I've always been attracted to new technology and exploring them.
