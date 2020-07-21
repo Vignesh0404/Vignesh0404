@@ -5,7 +5,7 @@
 ## Vignesh S
 
 - 🔭 I’m a final year computer science undergrad from Sri Venkateswara College of Engineering
-- 🌱 I’m currently seeking intership in fullstack mern development and flutter development
+- 🌱 I’m currently seeking fulltime internships/jobs on software development
 
 
 <details>
@@ -14,7 +14,7 @@
 </summary>
 
 
-### Little More About Me  
+### About Me  
 
 I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration. In fact, I'm currently the Chair of [SVCE-ACM Student Chapter](https://svce.acm.org/). My secret sauce is getting people excited about the things I'm excited about. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
 
@@ -61,14 +61,10 @@ I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	
 1. **Smart India Finalist 2020 - Software Edition**
    - :round_pushpin:&nbsp;&nbsp;**All India Council for Technical Education (AICTE)**
    - Shortlisted for Problem Statement: RK59 by Bureau of Police Research & Development. 
-2. **First Place - Daksh Smart Finance Hackathon (2020)**
-   - Won the First Place in a 36-hour Hackathon conducted by the **Shanmugha Arts, Science, Technology & Research Academy (SASTRA), Tamil Nadu**.
-3. **Fourth Place - St. Peter's Hackathon (2019)**
+2. **Fourth Place - St. Peter's Hackathon (2019)**
    - Won the Fourth Place in a 12-hour Hackathon of over 100+ participants conducted by the **St. Peter's College of Engineering and Technology, Chennai.**
-4. **Third Place - SSN IEEE Hack & Tackle (2019)**
+3. **Third Place - SSN IEEE Hack & Tackle (2019)**
    - Won the Third Place in a 24-hour Hackathon of over 300+ participants conducted by the IEEE Chapter of **SSN College of Engineering, Chennai**.
-5. **Founder and Lead - Active Specialized Support Group (ASSG)**
-   - It was started as an effort to combat a lack of technical diversity within our college. We also run weekly workshops for students from all departments across the college
  
 <br></details>
 <!-- footer --!>
