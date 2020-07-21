@@ -10,7 +10,7 @@
 
 <details>
 <summary>
-  <a href="https://github.com/Vignesh0404"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+  <a href="https://github.com/Vignesh0404"><img src="https://imgur.com/OqAlqPH.png" /></a>
 </summary>
 
 
@@ -77,6 +77,5 @@
     <a id="Website" href="https://vignesh0404.github.io/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="Krishnakanth Alagiri - Website" /></a>
     &nbsp;&nbsp;
    <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
-  <a id="Mail" href="https://www.instagram.com/"><img width="34px" src="https://imgur.com/kMm885s.png"></a>
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>  https://imgur.com/kMm885s
