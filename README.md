@@ -7,8 +7,8 @@
 - 🔭 I’m a final year computer science undergrad from Sri Venkateswara College of Engineering
 - 🌱 I’m currently seeking fulltime internships/jobs on software development
 
-
-<details> <p> Know More </p>
+## Know More
+<details> 
 <summary>
 
 </summary>
