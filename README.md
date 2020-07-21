@@ -8,7 +8,7 @@
 - 🌱 I’m currently seeking fulltime internships/jobs on software development
 - 📫 Check my work [Resume](https://drive.google.com/file/d/1D3xgmWB9-lXVDIK0aZniCoE1rn7SiHV1/view)
 
-# Know More
+### Know More
 <details> 
 <summary>
 
@@ -16,7 +16,11 @@
 
 
 ### About Me  
-
+   Hey! I'm vignesh currently a junior in Sri Venkateshwara College Of Engineering pursuing Computer Science. I'm a 
+	highly motivated, optimistic and enthusiastic person who loves to code. Trying to survive in this fast-phasing
+	python driven world using javaScript.  I've always been attracted to new technology and exploring them.
+   
+   I develop full-stack applications for mobile and the web, which run on different platforms.
 
 
 
@@ -79,4 +83,4 @@
     &nbsp;&nbsp;
    <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
 </p>
-<img src="https://imgur.com/rilHVxA.png"/>  https://imgur.com/kMm885s
+<img src="https://imgur.com/rilHVxA.png"/> 
