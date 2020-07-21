@@ -8,9 +8,9 @@
 - 🌱 I’m currently seeking fulltime internships/jobs on software development
 
 
-<details>
+<details> <p> Know More </p>
 <summary>
-  <a href="https://github.com/Vignesh0404"><img src="https://imgur.com/OqAlqPH.png" /></a>
+
 </summary>
 
 
